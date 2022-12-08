@@ -1,0 +1,43 @@
+.box{
+    width: 1440px;
+    height: 745px;
+    background-color: #004047;
+    margin: 0 auto;
+}
+.baker{
+    margin-left: 220px;
+    padding-top: 350px;
+    width: 280px;
+    height: 100px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 13px;
+    text-align: center;
+}
+.h3{
+    color:#79C8C7;
+    font-size: 18px;
+}
+.product{
+    font-size: 10px;
+}
+.aisha{
+    margin-left: 610px;
+    padding-top: 0px;
+    width: 280px;
+    height: 100px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 13px;
+    text-align: center;
+}
+.artur{
+    margin-left: 1000px;
+    margin-top: -100px;
+    width: 280px;
+    height: 100px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 13px;
+    text-align: center;
+}

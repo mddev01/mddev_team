@@ -1,0 +1,22 @@
+.wrapper{
+    width: 1440px;
+    height: 196px;
+    background-color: #002529;
+    margin: 0 auto;
+}
+.contac{
+    width: 200px;
+    color: #8FA0A1;
+    margin-top: 0px;
+    padding-top: 60px;
+    margin-left: 480px;
+    font-size: 15px;
+}
+.copy{
+    width: 255px;
+    color: #8FA0A1;
+    margin-top: -75px;
+    padding-top: 60px;
+    margin-left: 1080px;
+    font-size: 15px;
+}

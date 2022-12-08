@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.containers{
+    width: 1440px;
+    height: 648px;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #012F34;
+    margin-top: 0px;
+}
+.our{
+    width: 400px;
+    height: 15px;
+    color: #fff;
+    margin-left: 897px;
+    padding-top: 240px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.have{
+    width: 400px;
+    height: 15px;
+    color: #fff;
+    margin-left: 903px;
+    padding-top: 110px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.platform{
+    width: 400px;
+    height: 15px;
+    color: #fff;
+    margin-left: 903px;
+    padding-top: 120px;
+    font-size: 15px;
+    font-weight: 600;
+}

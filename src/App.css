@@ -1,0 +1,173 @@
+Header{
+    position: relative;
+}
+.img{
+    width: 159.59px;
+    height: 40px;
+    margin-left: 400px;
+    position: absolute;
+    margin-top: -650px;
+}
+.href{
+    display: flex;
+    position: absolute;
+    margin-top: -640px;
+    margin-left: 650px;
+    color: #FFF;
+    width: 140px;
+    justify-content: space-between;
+}
+.circ{
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 205px;
+}
+.find{
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 400px;
+}
+.fooot{
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: -100px;
+}
+Work{
+    position: relative;
+}
+.chiziq{
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 370px;
+}
+.build{
+    position: absolute;
+    margin-top: -446px;
+    margin-left: 370px;
+}
+.finding{
+    position: absolute;
+    margin-top: -423px;
+    margin-left: 1050px;
+}
+.finding1{
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 1050px;
+}
+.setting{
+    position: absolute;
+    margin-top: -330px;
+    margin-left: 1000px;
+}
+.graph{
+    position: absolute;
+    margin-top: -210px;
+    margin-left: 1000px;
+}
+.mans{
+    width: 700px;
+    position: absolute;
+    margin-top: -450px;
+    margin-left: 1000px;
+}
+.exper{
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+.easy{
+    position: absolute;
+    margin-top: -330px;
+    margin-left: 1108px;
+}
+.enha{
+    position: absolute;
+    margin-top: -210px;
+    margin-left: 1108px;
+}
+.grov{
+    position: absolute;
+    margin-top: -244px;
+    margin-left: 1545px;
+}
+.teaem{
+    position: absolute;
+    margin-top: -745px;
+    margin-left: 205px;
+}
+.deliver{
+    position: absolute;
+    margin-top: -580px;
+    margin-left: 480px;
+}
+.qosh{
+    position: absolute;
+    margin-left: 530px;
+    margin-top: -450px;
+}
+.qosh1{
+    position: absolute;
+    margin-left: 920px;
+    margin-top: -450px;
+}
+.qosh2{
+    position: absolute;
+    margin-left: 1310px;
+    margin-top: -450px;
+}
+.kady{
+    position: absolute;
+    margin-top: -230px;
+    margin-left: 530px;
+    width: 62px;
+    height: 62px;
+}
+.aish{
+    position: absolute;
+    margin-top: -230px;
+    margin-left: 920px;
+    width: 62px;
+    height: 62px;
+}
+.artu{
+    position: absolute;
+    margin-top: -230px;
+    margin-left: 1320px;
+    width: 62px;
+    height: 62px;
+}
+.butm{
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 1445px;
+}
+.cont{
+    position: absolute;
+    margin-top: -144px;
+    margin-left: 204px;
+}
+.redy{
+    position: absolute;
+    margin-top: -120px;
+    margin-left: 500px;
+}
+.imgs{
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 400px;
+}
+.href1{
+    position: absolute;
+    display: flex;
+    width: 130px;
+    margin-top: -80px;
+    margin-left: 400px;
+    color: #FFF;
+    justify-content: space-between;
+}
+.foto{
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 1400px;
+}
